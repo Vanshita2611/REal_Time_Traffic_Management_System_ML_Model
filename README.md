@@ -38,7 +38,7 @@ To control traffic lights efficiently based on traffic congestion.
         - TCRT 5000 reflective optical IR sensors  
         - LEDs as Trafic lights    
         
-<img src="tcrt5000.jpg" alt="tcrt5000" width="400"/>  ![LED](circuit.png)
+
 
 ### To Run Application
 - py videom.py sit1.txt  
